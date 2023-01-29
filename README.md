@@ -17,3 +17,5 @@ practice
 feature에서 바로 push합니다.
 
 feature 수정 후 내 개인 repo main에 merge 후 push 합니다.
+
+feature 수정 후 내 개인 repo main에 merge 후 push 합니다. 그리고 pr에서 수정합니다.
