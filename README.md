@@ -13,5 +13,3 @@ practice
 안녕하세요!
 
 성은님!
-
-feature에서 바로 push합니다.
