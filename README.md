@@ -14,4 +14,4 @@ practice
 
 성은님!
 
-네!
+feature에서 바로 push합니다.
